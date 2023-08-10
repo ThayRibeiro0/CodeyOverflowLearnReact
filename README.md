@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, I built with them the beginnings of a web forum, where I could sharpen my skills in React components by practicing using props as well as defining, rendering, and referencing components.
+In this project, I built the project where I could sharpen my skills in React components by practicing using props as well as defining, rendering, and referencing components.
 
 <p align="center">
   <img src="https://img.shields.io/github/downloads/ThayRibeiro0/project0.2/total?color=%2300ff00&logo=Github&style=plastic" />
