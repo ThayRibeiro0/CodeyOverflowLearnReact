@@ -1,3 +1,12 @@
 import React from 'react';
-import Body1 from './Body';
-import Header1 from './Header';
+
+function Header(props){
+  return (
+    <>
+      <img src={props.profileImg}/>
+      <h1>{props.username}</h1>
+    </>
+  );
+};
+
+export default Header;
