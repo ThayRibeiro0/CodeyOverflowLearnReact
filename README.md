@@ -17,15 +17,6 @@ In this project, I built the project where I could sharpen my skills in React co
     <img src="https://img.shields.io/badge/CSS-3776AB?&logo=css3&logoColor=white&style=flat" />
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat">
 </p>
-
-## Instalation
-
-The things that you need to run to see this project it is [npm install] and [npm run dev] and of course you need to have and if do not have you need to install the package of Node to run the React.
-
-```bash
-  npm install
-  npm run dev
-```
     
 ## What each of the files you wrote for the project contains and does?
 
