@@ -1,9 +1,11 @@
 import React from 'react';
 
-function Body1(props){
+function Body(props){
   return(
-  <p>Testando o props</p>
+    <>
+      <p>{props.comment}</p>
+    </>
   );
 };
 
-export default Body1;
+export default Body;
