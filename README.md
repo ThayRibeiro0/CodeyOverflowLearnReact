@@ -20,7 +20,7 @@ In this project, I built the project where I could sharpen my skills in React co
     
 ## What each of the files you wrote for the project contains and does?
 
-The project use the node_modules, javascript.jsx and javascript.js, react, html, css and installation; 
+The project use the node_modules, javascript.jsx and javascript.js, react, html and css to file the project. 
 
 ## Referência
 - [Codecademy] - Learn React | Codecademy - ([https://dev.to/envoy_/150-badges-for-github-pnk](https://www.codecademy.com/enrolled/courses/react-101))
