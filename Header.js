@@ -1,12 +1,14 @@
 import React from 'react';
+import Header from './Header';
+import Body from './Body';
 
-function Header(props){
+function Card(props){
   return (
     <>
-      <img src={props.profileImg}></img>
-      <h1>{props.username}</h1>
-    </>
+      <Header profileImg = {props.commentObject.profileImg} username = {props.commentObject.username} />
+      <Body comment={props.commentObject.comment}/>
+    </>    
   );
-}
+};
 
-export default Header;
+export default Card;
