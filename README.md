@@ -1,4 +1,4 @@
-# Project from Codecademy - CodeyOverFlow Forum
+# Project from Codecademy - CodeyOverFlow Forum - EXEMPLE OF CLASSES
 
 ## Description
 
