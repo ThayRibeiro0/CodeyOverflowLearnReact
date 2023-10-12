@@ -1,4 +1,4 @@
-# Project from Codecademy - CodeyOverFlow Forum - EXEMPLE OF CLASSES
+# Project from Codecademy - CodeyOverFlow Forum - EXEMPLE OF CLASSES CAN NOT RUN DIRECT NEED TO CREATE A REACT APP - npx create-react-app project
 
 ## Description
 
